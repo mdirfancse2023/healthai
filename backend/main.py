@@ -37,6 +37,7 @@ def create_app() -> FastAPI:
             "https://ai-mental-health.blackocean-872335af.centralindia.azurecontainerapps.io",
             "https://virtualgyans.tech",
             "https://www.virtualgyans.tech",
+            "https://healthai.virtualgyans.tech",
         ],
         allow_credentials=True,
         allow_methods=["*"],

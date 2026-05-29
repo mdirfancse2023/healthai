@@ -16,7 +16,7 @@ An intelligent, AI-driven mental health assistant designed to support students b
 Current deployed URL:
 
 ```text
-https://health.136.115.35.202.sslip.io/
+https://healthai.virtualgyans.tech/
 ```
 
 The complete GKE setup and deployment flow is documented in [GUIDE.md](GUIDE.md).
