@@ -148,4 +148,5 @@ jobs:
           az containerapp update \
             --name "${{ env.PORTFOLIO_APP_NAME }}" \
             --resource-group "${{ env.AZURE_RESOURCE_GROUP }}" \
-            --image "${{ env.PORTFOLIO_IMAGE }}:aimentalhealth-proxy"
+            --image "${{ env.PORTFOLIO_IMAGE }}:${{ github.sha }}"
+
