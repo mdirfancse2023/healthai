@@ -82,3 +82,9 @@ Thumbs.db
 # =========================
 coverage/
 .cache/
+
+# =========================
+# 🤖 AGENT SKILLS
+# =========================
+.agents/
+skills-lock.json
